@@ -10,4 +10,6 @@
   <br>
   <br>
 <img src="https://github.com/glaylson87/easy-shopping/blob/main/desktop%20mobile.png?raw=true"/> <br>
+<p>Confere Aqui</p>
+<a href="https://glaylson87.github.io/easy-shopping/">https://glaylson87.github.io/easy-shopping/</a>
 
